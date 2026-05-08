@@ -2,13 +2,13 @@ import tkinter as tk
 import random
 
 def guessing_number():
-    pass
+   pass
 
 def wrong_guess():
-    pass
+   pass
 
 def right_guess():
-    pass
+   pass
 
 root = tk.Tk()
 root.title("Number Guessing Game")
